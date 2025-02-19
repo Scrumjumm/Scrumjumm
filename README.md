@@ -1,4 +1,4 @@
-## 👋 Welcome to my Github profile! I work primarily in python, making basic Discord bots and whatever dumb ideas sound fun in the moment.
+## 👋 Welcome to my Github profile!  <br/> 🤖 I work in python, making basic Discord bots and whatever sound fun in the moment.
 
 <!--
 **Scrumjumm/Scrumjumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
